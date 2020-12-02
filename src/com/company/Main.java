@@ -12,5 +12,11 @@ public class Main {
         d1.sum2020Multiple(2020, 3);
 
         System.out.println("\n");
+
+        Day2 d2 = new Day2("/Advent-of-Code-2020/data/day2Part1.txt"); //<- Day 2
+        d2.validPasswordsPart1();
+        d2.validPasswordsPart2();
+
+        System.out.println("\n");
     }
 }
