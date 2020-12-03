@@ -6,8 +6,8 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class Day2 {
-    String fileName;
-    ArrayList<String> lines;
+    private String fileName;
+    private ArrayList<String> lines;
 
     Day2(String fileName){
         this.fileName = fileName;

@@ -18,5 +18,14 @@ public class Main {
         d2.validPasswordsPart2();
 
         System.out.println("\n");
+
+        Day3 d3 = new Day3("/Advent-of-Code-2020/data/day3Part1.txt"); //<= Day 3
+        long s1 = d3.treeHitsPart1(1, 1);
+        long s2 = d3.treeHitsPart1(3, 1);
+        long s3 = d3.treeHitsPart1(5, 1);
+        long s4 = d3.treeHitsPart1(7,1);
+        long s5 = d3.treeHitsPart1(1, 2);
+        long treeHitMultiple = s1 * s2 * s3 * s4 * s5;
+        System.out.println("Number of Tree Hits - Day 3 Part 2: " + treeHitMultiple);
     }
 }
