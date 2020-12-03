@@ -20,12 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8112a8bf-e0b6-4d83-bf6d-20914b676e94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/day3Part1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Day3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent-of-Code-2020/com/company/Day2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Advent-of-Code-2020/com/company/Day2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/day1Part1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/day2Part1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/day3Part1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Advent-of-Code-2020/com/company/Day3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Advent-of-Code-2020/com/company/Day3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Advent-of-Code-2020/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Advent-of-Code-2020/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Day2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Day2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Day3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606801815959</updated>
-      <workItem from="1606801817527" duration="17161000" />
+      <workItem from="1606801817527" duration="18657000" />
     </task>
     <servers />
   </component>
@@ -113,22 +114,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1606978079646">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1606980052465">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1606978079646" />
-    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1606978079644">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1606980052465" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1606980052464">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1606978079644" />
-    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1606978079644">
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1606980052464" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1606980052463">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1606978079644" />
-    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1606978079645">
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1606980052463" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1606980052464">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1606978079645" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1606980052464" />
     <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1606888655334">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>

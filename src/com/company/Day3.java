@@ -40,6 +40,7 @@ public class Day3 {
 
     public int treeHitsPart1(int right, int down){
         int treeHits = depthFirstSearch(0, 0, right, down, 0);
+        System.out.print("Slope: [" + right + ", " + down + "]\t");
         System.out.println("Number of Tree Hits - Day 3 Part 1: " + treeHits);
 
         return treeHits;
