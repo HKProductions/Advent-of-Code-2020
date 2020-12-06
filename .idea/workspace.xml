@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8112a8bf-e0b6-4d83-bf6d-20914b676e94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/day5Data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Day5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/day6Data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Day6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Advent-of-Code-2020/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Advent-of-Code-2020/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
@@ -94,7 +94,7 @@
       <updated>1606801815959</updated>
       <workItem from="1606801817527" duration="33646000" />
       <workItem from="1607105145383" duration="153000" />
-      <workItem from="1607105342825" duration="4501000" />
+      <workItem from="1607105342825" duration="7273000" />
     </task>
     <servers />
   </component>
@@ -112,16 +112,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Day5.java</url>
-          <line>73</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
