@@ -45,5 +45,11 @@ public class Main {
 
         System.out.println("\n");
 //----------------------------------------------------------------------------------------------------------------------
+        Day7 d7 = new Day7("/Advent-of-Code-2020/data/day7Data.txt"); //<- Day 7
+        d7.bagCountPart1("shiny gold");
+        System.out.print("Number of bags to bring - Day 7 Part 2: " + (d7.bagCountPart2("shiny gold", new HashMap<>()) - 1));
+
+        System.out.println("\n");
+//----------------------------------------------------------------------------------------------------------------------
     }
 }

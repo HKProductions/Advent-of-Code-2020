@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8112a8bf-e0b6-4d83-bf6d-20914b676e94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/day6Data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Day6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/day7Data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/day7Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Day7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Advent-of-Code-2020/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Advent-of-Code-2020/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
@@ -94,7 +95,7 @@
       <updated>1606801815959</updated>
       <workItem from="1606801817527" duration="33646000" />
       <workItem from="1607105145383" duration="153000" />
-      <workItem from="1607105342825" duration="7273000" />
+      <workItem from="1607105342825" duration="15450000" />
     </task>
     <servers />
   </component>
@@ -112,5 +113,23 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="31" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Day7.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Advent_of_Code_2020$Main.ic" NAME="Main Coverage Results" MODIFIED="1607324348855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
