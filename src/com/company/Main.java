@@ -51,5 +51,11 @@ public class Main {
 
         System.out.println("\n");
 //----------------------------------------------------------------------------------------------------------------------
+        Day8 d8 = new Day8("/Advent-of-Code-2020/data/day8Data.txt"); //<- Day 8
+        System.out.println("Find Boot Loop - Day 8 Part 1: " + d8.findLoopPart1());
+        System.out.println("Fix Boot Loop - Day 8 Part 2: " + d8.fixLoopPart2());
+
+        System.out.println("\n");
+//----------------------------------------------------------------------------------------------------------------------
     }
 }
